@@ -243,7 +243,7 @@ input {
 
 
 /* Media Query */
-@media (max-width: 360px) {
+@media (max-width: 500px) {
     header {
         height: 4vh;
         z-index: 20;
@@ -274,7 +274,7 @@ input {
     }
 
     .section2 {
-        width: 100%;
+        width: 95%;
         height: 100vh;
         display: flex;
         align-items: center;
