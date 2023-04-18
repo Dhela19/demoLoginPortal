@@ -4,8 +4,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway&family=Roboto+Condensed:wght@700&family=Roboto:wght@500&family=Roboto+Slab&display=swap');
-
 body {
     margin: 0;
     padding: 0;
@@ -253,9 +251,9 @@ input {
         background-repeat: no-repeat;
         background-position: center;
         height: auto;
-        background-image: url('/res/mobile.jpeg');
+        background-image: url('/res/illustration1.png');
         background-attachment: fixed;
-        background-size: 120%;
+        background-size: 100%;
     }
 
     .sectionContainer {
@@ -293,11 +291,12 @@ input {
 
     h1 {
         font-size: 140%;
+        color: #80ffd6;
     }
 
     .schoolTagText {
         /* color:#030344; */
-        background-image: linear-gradient(90deg, #0067D7, #00BBF9, #020887);
+        background-image: linear-gradient(90deg, #dff, #ffd, #dcd);
         background-clip: text;
         -webkit-background-clip: text;
         color: transparent;
